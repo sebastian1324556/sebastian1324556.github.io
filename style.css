@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(27, 29, 136);
+}
+.fondo {
+    border: 30px ridge rgb(31, 28, 96);
+    background-color: rgb(39, 39, 98);
+    border-radius: 17px;
+    align-content: center;
+}
+#titulo {
+    color: rgb(141, 14, 14);
+    font-family: cursive;
+    background-color: rgb(50, 5, 5);
+    padding: 5px;
+    width: 110px;
+    border-radius: 10px;
+    margin-right: 1000px;
+}
+#titulo2 {
+    color: rgb(141, 14, 14);
+    font-family: cursive;
+    background-color: rgb(50, 5, 5);
+    padding: 5px;
+    width: 110px;
+    border-radius: 10px;
+}
+#titulo3 {
+    color: rgb(141, 14, 14);
+    font-family: cursive;
+    background-color: rgb(50, 5, 5);
+    padding: 5px;
+    width: 110px;
+    border-radius: 10px;
+}
+#titulo4 {
+    color: rgb(141, 14, 14);
+    font-family: cursive;
+    background-color: rgb(50, 5, 5);
+    padding: 5px;
+    width: 110px;
+    border-radius: 10px;
+}
+.tl {
+    display: flex;
+    margin-inline: 30px;
+}
+.usuario {
+    color: rgb(4, 0, 255);
+    font-family: cursive;
+    font-size: 30px;
+}
+.REGISTRATE {
+    padding: 7px;
+    width: 280px;
+    color: rgb(0, 204, 255);
+    background-color: rgb(44, 20, 222);
+    border-color: aqua;
+    border-radius: 30px;
+    font-family: cursive;
+    font-size: 30px;
+}
+.boton1 {
+    padding: 7px;
+    width: 250px;
+    background-color: blue;
+    border-color: aqua;
+    font-family: cursive;
+    color: aqua;
+    border-radius: 30px;
+    font-size: 30px;
+}
+.contraseña {
+    color: blue;
+    font-family: cursive;
+    font-size: 30px;
+}
+.rd {
+    color: blue;
+    font-family: cursive;
+    font-size: 30px;
+}
+.us {
+    background-color: rgb(127, 249, 255);
+    width: 250px;
+    padding: 7px;
+    border-color: rgb(13, 0, 255);
+    font-family: cursive;
+    border-radius: 30px;
+    font-size: 30px;
+}
+.co {
+    background-color: rgb(127, 249, 255);
+    width: 250px;
+    padding: 7px;
+    border-color: rgb(13, 0, 255);
+    font-family: cursive;
+    border-bottom-color: blue;
+    border-radius: 30px;
+    font-size: 30px;
+}
+.carro {
+    border-radius: 1300px;
+    padding: 50px;
+}
+.contenido {
+    display: flex;
+}
+.texto {
+    margin-left: 150px;
+}
+
+ 
